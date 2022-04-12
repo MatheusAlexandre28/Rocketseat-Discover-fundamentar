@@ -1,0 +1,1 @@
+Usamos apenas codepen.io e notion
