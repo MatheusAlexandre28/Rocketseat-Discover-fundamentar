@@ -1,18 +1,46 @@
 * {
     font-family: sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-.container{
-    display: flex;
-    justify-content: flex-end;
-    gap: 8px;
+a {
+    text-decoration: none;
 }
 
-.container div:nth-child(1){
-    width: 250px;
+a:hover{
+    color: white;
 }
 
-.container:last-child{
+.container {
+    background: #232324;            /* deixa o fundo escuro */
+    display: flex;                    /*  habilita o flex para mudar o posicionamento */
+    justify-content: space-between;   /*  da um espaçamento */
+    align-items: center;              /*  alinha os items ao centro, nao deixando la encima  */
+    height: 4.5rem;                   /*  a altura da cor de fundo  */
+    padding: 0 30px;                  /* tira as bordas da cor de fundo e deixa os elementos com uma borda maior para ficar mais afastado das laterais   */
+}
+
+.container nav a{               
+    color: #5D5D5D;                 /*  da cor para as letras do menu e logo  */
+    padding-left: 8px;                /*   espaçamento entre elementos */
+}
+
+
+.container nav a:hover{
+    color: #B3B3B9;                 /*  da uma cor ao passar o mouse encima  */
+}
+
+
+.container nav button:last-child {
+    color: #5D5D5D;                /* cor para a letra   */
+    background: #393939;            /*   cor para o fundo */
+    padding: 0.6rem;                    /*  da um espaçamento doq esta escrito no botao com a sua borda  */
+    margin-left: 0.6cm;                 /*  da um espaçamento do button com os elementos  */
+}
+
+.container nav button:last-child:hover {
+    color: #B3B3B9;                 /*  uma cor para o botao ao passar o mouse encima  */
 }
 
 
