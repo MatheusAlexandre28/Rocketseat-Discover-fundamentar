@@ -69,8 +69,18 @@ flex-basis: 25%;
 }
 
 main {
-flex: 1;
+    display: flex;
+    flex: 1;
 }
+
+main img {
+    margin: 1rem;
+    height: 20px;
+    width: 20px;
+    background: red;
+}
+
+
 
 
 
