@@ -68,23 +68,40 @@ aside {
 flex-basis: 25%;
 }
 
-/* aula 9 fts 3 colunas */
+/* aula 3 9 fts 3 colunas */
 main {  
-    width: 80vw;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    gap: .8rem;
     align-items: center;
+    width: 80vw;
 }
 
 .img img{
-    height: 120px;
-    width: 120px;
     margin: .8rem;
+    width: 130px;
+    height: 130px;
 }
 
+/* aula 4 image dentro de um botao */
+aside button {
+    display: flex;
+    align-items: center;
+    margin: .8rem;
+    line-height: 0;
+    gap: .4rem;
+    padding: 2px;
+}
+  
+aside button img{
+    width: 2rem;
+    height: 2rem;
+}
 
-
-
+aside button:nth-child(1){
+    padding-right: .8rem;
+}
 
 
 
