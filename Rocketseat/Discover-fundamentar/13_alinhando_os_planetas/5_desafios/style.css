@@ -107,6 +107,7 @@ aside div button{
 aside button img{
     width: 2rem;
     height: 2rem;
+    margin-right: .9rem;
 }
 
 aside button:nth-child(1){
