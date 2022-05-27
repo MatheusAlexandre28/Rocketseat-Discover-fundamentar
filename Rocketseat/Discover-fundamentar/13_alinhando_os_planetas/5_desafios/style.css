@@ -20,7 +20,8 @@ nav {
 }
 
 ul li:hover {
-    color: #B3B3B9; 
+    color: #B3B3B9;
+    padding-bottom: .2rem;
 }
 
 ul {
@@ -33,7 +34,8 @@ ul {
 
 ul button:last-child:hover{
     color: #B3B3B9; 
-    border: 2px solid #B3B3B9; ; 
+    border: 2px solid #B3B3B9;
+    padding-bottom: .2rem; 
 }
 
 ul button:last-child{
@@ -44,6 +46,7 @@ ul button:last-child{
 
 header nav a:hover{
     color: #B3B3B9; 
+    padding-bottom: .2rem;
 }
 
 header nav a{
@@ -60,12 +63,14 @@ header nav a{
 }
 
 aside, main {
-    border: 1px solid #5D5D5D;
+    border: 2px solid;
     height: 80vh;
+    
+    background: #454545;
 }
 
 aside {
-flex-basis: 25%;
+    flex-basis: 25%;
 }
 
 /* aula 3 9 fts 3 colunas */
@@ -85,13 +90,18 @@ main {
 }
 
 /* aula 4 image dentro de um botao */
-aside button {
+aside div {
+    display: flex;
+    gap: .4rem;
+}
+
+aside div button{
     display: flex;
     align-items: center;
     margin: .8rem;
     line-height: 0;
-    gap: .4rem;
     padding: 2px;
+    cursor: pointer;
 }
   
 aside button img{
@@ -101,6 +111,10 @@ aside button img{
 
 aside button:nth-child(1){
     padding-right: .8rem;
+}
+
+aside button:hover{
+    border: 3px solid;
 }
 
 
