@@ -64,7 +64,7 @@ header nav a{
 
 aside, main {
     border: 2px solid;
-    height: 80vh;
+    height: 70vh;
     
     background: #454545;
 }
@@ -116,6 +116,18 @@ aside button:nth-child(1){
 
 aside button:hover{
     border: 3px solid;
+}
+
+/* aula 5 footer */
+footer {
+    display: flex;
+    border: 2px solid;
+    height: 8rem;
+    margin: .8rem;
+    align-items: center;
+    justify-content: center;
+    
+    background: #454545;
 }
 
 
