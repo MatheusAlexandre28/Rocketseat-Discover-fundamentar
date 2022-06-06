@@ -2,6 +2,6 @@
 // argumento event
 const input = document.querySelector('input')
 
-input.onkeypress = function() {
-    
+input.onkeydown = function(event) {
+    console.log(event.currentTarget)
 }
