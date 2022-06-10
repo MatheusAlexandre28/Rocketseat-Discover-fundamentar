@@ -1,5 +1,7 @@
 # sintaxe
 
+    ls -lh /usr/bin
+
 Command                             Option(s)                    Argument(s)
 - programa que esta rodando         - mudar o comportamento     - Onde o comando ira    
 - obrigatorio                       - Explicar ao comando       operar?
