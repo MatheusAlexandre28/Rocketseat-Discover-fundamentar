@@ -1,0 +1,5 @@
+# mkdir
+
+Criar diretorios
+
+- -p
