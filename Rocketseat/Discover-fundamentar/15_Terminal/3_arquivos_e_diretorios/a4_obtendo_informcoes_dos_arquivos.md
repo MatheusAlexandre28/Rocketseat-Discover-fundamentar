@@ -1,0 +1,7 @@
+- file
+    - tipo do arquivo
+    - informações
+- stat
+    - dono
+    - modificações
+    - tamanho
