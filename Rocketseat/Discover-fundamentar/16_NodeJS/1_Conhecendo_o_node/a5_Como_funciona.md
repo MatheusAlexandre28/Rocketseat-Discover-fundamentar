@@ -36,4 +36,13 @@ Restaurante do Noderson
 
 
 Decifrando...
-Tio apache
+Tio apache = Apache
+Noderson = Node
+Cliente = usuario
+pedido = request
+garçon = thread
+cozinha = servidor
+chef = bando de dados
+eveneto lupin = event loop
+
+Node é single-threaded, non-blocking e asynchronous.
