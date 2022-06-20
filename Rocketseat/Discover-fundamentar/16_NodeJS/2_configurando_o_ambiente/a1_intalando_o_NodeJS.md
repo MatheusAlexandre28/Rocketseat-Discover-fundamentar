@@ -1,0 +1,2 @@
+Vc vai entrar em https://nodejs.org/en/ onde ele ja identifica qual sua maquina e ja te oferece duas opções temos a longe term suport (lts) e a current(atual) q nao foi tao testada quanto a lts, ent é recomendavel intalar a LTS ent clique nela e ja vai fazer o download, assim q terminar o download vc ja pode abrir o arquivo.
+Agr com o terminal aberto a gente vai escrever um node -v.
