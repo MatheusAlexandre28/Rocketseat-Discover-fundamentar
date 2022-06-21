@@ -1,1 +1,2 @@
-console.log(__filename)
+console.log('Alguma coisa aqui')
+console.log
