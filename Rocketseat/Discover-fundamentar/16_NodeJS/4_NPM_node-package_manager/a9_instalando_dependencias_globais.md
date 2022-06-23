@@ -1,0 +1,2 @@
+- [ ] Instalar pacote de maneira global
+- [ ] Desinstalar pacotes
