@@ -1,2 +1,2 @@
 criamos um banco de dado de alunos e professores desses alunos, primeiro identificamos os alunos pelo numero dele, nenhum aluno de salas diferentes vao ter o msm numero, pode ser ou numero de matricula, RM, RA, oq for, incluimos suas informações com numeros diferentes de matricula. Na sefunda tabela colocamos os id do professor, suas informações, como sao tabelas diferentes os numeros de matricula e id nao tem relação nenhuma.
- Uma curiosidade
+ Uma curiosidade, a nossa tabela ela pode ter ids iguais caso seja em tabelas diferentes
