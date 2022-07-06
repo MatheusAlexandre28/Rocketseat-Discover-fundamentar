@@ -1,0 +1,1 @@
+Um tipo de campo identificador, significa q meu banco ele vai controlar toda a informação da tabela de acordo com os numeros dos 'id' ou 'primary key' 

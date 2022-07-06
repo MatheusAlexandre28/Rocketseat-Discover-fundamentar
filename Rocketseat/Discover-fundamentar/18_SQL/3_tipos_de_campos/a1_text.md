@@ -1,0 +1,1 @@
+É quando damos a informação para o nosso banco de dados deq o campo vai receber apenas informações de text, q pode ter letras, numeros, caracteres especiais como anderline e arrouba, e espaços.

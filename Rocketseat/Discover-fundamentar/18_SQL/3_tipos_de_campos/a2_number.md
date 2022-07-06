@@ -1,0 +1,1 @@
+Serve para campos q tem somente numeros guardados, coloque o nome do campo e indique para o banco de dados q é 'number'
