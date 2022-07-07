@@ -1,0 +1,1 @@
+SELECT * FROM aluno WHERE cpf = (numero q vc quer, assim consegue pegar apenas um usuario, o igual só funciona em campos q são number) 
