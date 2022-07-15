@@ -9,3 +9,5 @@ Trazemos a representação de algo do mundo real para objetos
 Porem, alguns objetos na programação não são faceis de identificar, pois sao abstratos como, por exemplo:
 - autenticação
 - autorização
+
+Nem todo objeto do mundo real fará parte do seu sistema
