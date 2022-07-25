@@ -1,0 +1,1 @@
+ Apenas crie uma pasta, estre nela com o comando cd e após de um git init

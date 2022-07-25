@@ -1,0 +1,1 @@
+Listamos para ver onde esta todo o repositorio do nosso projeto dando um 'ls -al git' 
