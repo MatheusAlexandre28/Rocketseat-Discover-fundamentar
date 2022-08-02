@@ -1,0 +1,1 @@
+Pegamos um repositorio git da rocketseat e baixamos o seu .zip, extraimos ele e entramos com o comando 'cd' no terminal nesta pasta baixada do repositorio, após demos um 'git init' nela, 'git status' para vermos oq tinha e ai sim um 'git add .' para adicionar tudo na stage area e por fim um 'git commit -m ""' para commitar

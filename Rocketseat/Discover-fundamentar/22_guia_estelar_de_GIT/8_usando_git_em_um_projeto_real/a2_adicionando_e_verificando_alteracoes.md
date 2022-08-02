@@ -1,0 +1,1 @@
+Alteramos um arquivo e olhamos ele com 'git status' depois um 'git diff' para ver a alteração, para vermos exatamente quais foram as palavras modificadas damos um 'git diff --color-words'

@@ -1,0 +1,1 @@
+Quando os arquivos ja estao sendo rastrados podemos usar o 'git commit -am ""' caso voce faça alguma alteração nos arquivos que ja estao no repositorio

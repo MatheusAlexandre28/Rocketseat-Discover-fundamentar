@@ -1,0 +1,1 @@
+Com o 'git show Hash' vc consegue ver qual modificação ocorreu em tal commit, tbm pode ser usada a estrategia do 'git show hash --color-words', podemos ver arquivos modificados dentro de pastas tbm com o 'git show Hash -- pasta/pasta/*'
