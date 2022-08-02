@@ -1,0 +1,1 @@
+O git é um gerenciador do seu projeto do historico do seu projeto, alterações que voce for fazendo ao longo do tempo do projeto voce usa o git, vc pode usar o git na sua maquina local e esta tudo certo, quando vc vai tirar da sua maquina local e deixar em um repositorio remoto, o github existe como esta solução

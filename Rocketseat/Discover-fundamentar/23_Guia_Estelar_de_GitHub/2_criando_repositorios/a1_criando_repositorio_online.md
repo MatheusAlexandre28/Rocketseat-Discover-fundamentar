@@ -1,0 +1,1 @@
+Demos git init no nosso repositorio criamos um arquivo com o 'touch nomeArquivo', no nosso terminal demos um git add . e depois git commit -m "". Isso é a mesma coisa que a gente ir no github e criar um repositorio habilitando o README.md
