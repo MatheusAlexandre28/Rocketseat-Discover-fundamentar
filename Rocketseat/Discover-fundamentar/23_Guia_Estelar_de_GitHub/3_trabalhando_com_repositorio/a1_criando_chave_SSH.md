@@ -1,0 +1,1 @@
+Para fazer conexão da minha maquina com o Github, com o 'ssh-keygen -t rsa -b 4096 -C "email"' depois pegue a chave e cole no github com o 'cat ~/.ssh/id_rsa.pub'
