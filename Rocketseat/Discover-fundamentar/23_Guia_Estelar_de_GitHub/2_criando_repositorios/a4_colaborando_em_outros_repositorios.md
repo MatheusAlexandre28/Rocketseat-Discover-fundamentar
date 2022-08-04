@@ -1,0 +1,1 @@
+Fork significa que ele está trazendo para os meus repositorios um repositorio de fora, e a partir de flow é aonde conseguimos fazer alterações aqui.
