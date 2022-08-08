@@ -1,0 +1,1 @@
+Vimos no nosso github que podemos ver codigos anteriores como eles estavam e comentar em linha ou comentar no codigo todo

@@ -1,0 +1,2 @@
+demos uma config para melhorar com o 'git config --global pull.rebase false', forçamos um erro onde fizemos uma alteração no nosso github e esquecemos de fazer o 'git pull' mas alteramos um arquivo na nossa maquina.
+ Usamos o VS code para corrigir este erro, e depois demos o git commit

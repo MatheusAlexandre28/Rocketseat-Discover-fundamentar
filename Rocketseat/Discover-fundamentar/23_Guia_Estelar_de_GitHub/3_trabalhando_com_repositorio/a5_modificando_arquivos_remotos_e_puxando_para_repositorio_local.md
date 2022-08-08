@@ -1,0 +1,1 @@
+quando modificamos algo no github em outro pc ou no proprio github, no nosso git damos um 'git pull' e ele puxa oq esta no github para a maquina
