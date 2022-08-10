@@ -1,0 +1,1 @@
+Abrimos nosso gitbash e vimos todas as informações dos sites colocando o comando 'curl link' podemos ver o header com 'curl -i link' e todas as informações com 'curl -v link'

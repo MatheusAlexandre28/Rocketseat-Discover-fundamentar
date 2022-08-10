@@ -1,0 +1,1 @@
+Entramos no google e demos F12, depois fomos na aba de network, em seguida demos enter novamente para recarregar a pagina do google, e vimos todos os pedidos feitos ao abrir esta aba.
