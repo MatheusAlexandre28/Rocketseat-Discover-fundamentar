@@ -1,0 +1,1 @@
+è simples, fazemos um pedido, ele realiza a função, ele nao guarda estado ent ele é stateless e ele é feito baseado em cliente e servidor

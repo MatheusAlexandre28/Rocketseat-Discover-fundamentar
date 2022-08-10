@@ -1,0 +1,1 @@
+ele é a entidade q da inicio a comunicação, é o user agent(browser/cURL), q faz os pedidos q são as ações do cliente 
