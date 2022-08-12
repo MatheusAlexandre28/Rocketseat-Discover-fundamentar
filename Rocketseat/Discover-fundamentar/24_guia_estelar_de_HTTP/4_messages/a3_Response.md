@@ -1,0 +1,2 @@
+Agr a gente tem a versão da mensagem de resposta, a gente vai receber nessa mensagem de resposta por padrao o protocolo, qual foi o status code, o status code vai ser responsavel por dizer para a gente se essa resposta deu tudo certo ou se teve algum problema no meio desse caminho, além dos headers e da mensagem de status em si. 
+Para ver o headers de resposta colocamos o 'curl -I link' e com o corpo tbm é 'curl -i link'
