@@ -1,0 +1,1 @@
+Fala todas as informações que o pedido está fazendo, permissões autoridade e mais.

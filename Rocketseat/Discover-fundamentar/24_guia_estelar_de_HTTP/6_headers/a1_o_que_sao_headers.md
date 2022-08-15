@@ -1,0 +1,1 @@
+Na sua tradução significa cabeçalhos, ent são informações adicionais que usamos para pedido ou para resposta, geralmente construimos da forma nome: valor. Não importa se vamos escrever ele com t grande ou T pequeno, tipo.. content-Type, Content-type, o interessante é colocar o nome: valor 

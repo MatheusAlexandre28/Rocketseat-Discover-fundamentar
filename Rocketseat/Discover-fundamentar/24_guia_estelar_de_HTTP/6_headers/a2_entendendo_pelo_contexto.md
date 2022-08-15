@@ -1,0 +1,1 @@
+Vamos dividir os headers por contextos, são 3 contextos vimos no devtools essas 3 categorias no headers do http

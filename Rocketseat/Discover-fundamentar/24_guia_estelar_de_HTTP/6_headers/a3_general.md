@@ -1,0 +1,1 @@
+No f12 no google a gente pode perceber que os headers que são passados aqui sao passados para o response e para o request, é um agrupamento geral doq é esses headers

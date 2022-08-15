@@ -1,0 +1,1 @@
+Fala todas as informações que a resposta está fazendo, como por exemplo o cache-control, 
