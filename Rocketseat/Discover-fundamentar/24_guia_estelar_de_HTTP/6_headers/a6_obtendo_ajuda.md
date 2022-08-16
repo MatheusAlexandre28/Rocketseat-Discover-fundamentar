@@ -1,0 +1,1 @@
+Esses foram os 3 tipos de headers olhando eles categorizados desta forma, agr é o seguinte nós precisamos de mais informação, a gente intalou o dev devdocs, que busca conteudo de diversos frameworks, nele podemos pesquisar HTTP Header e temos diversos para configurar, é só clicar em um deles ele mostra a sintaxe, diretivas q é colocar os valores dados 
