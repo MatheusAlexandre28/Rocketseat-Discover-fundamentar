@@ -1,0 +1,1 @@
+No site https://devdocs.io/ temos muito mais informaçoes e procure por http status
